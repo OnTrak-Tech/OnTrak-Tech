@@ -12,6 +12,7 @@ Passionate DevOps Engineer focused on building scalable, automated infrastructur
 - **Kubernetes** - Container orchestration and management
 
 ### 💻 Programming Languages
+- **Bash Scripting** - Automation Scripts
 - **Python** - Automation scripts, DevOps tools
 - **Java** - Enterprise applications
 - **PHP** - Web development
@@ -19,7 +20,7 @@ Passionate DevOps Engineer focused on building scalable, automated infrastructur
 ### 🔄 CI/CD & Automation
 - **CI/CD Pipelines** - Jenkins, GitHub Actions, GitLab CI
 - **Automation** - Ansible, Shell scripting, Python automation
-- **Monitoring** - Prometheus, Grafana, CloudWatch
+- **Monitoring & Logging** - Prometheus, Grafana, CloudWatch
 
 ### 🗄️ Databases
 - **Relational** - MySQL, PostgreSQL, RDS
