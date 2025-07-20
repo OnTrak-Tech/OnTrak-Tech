@@ -6,7 +6,7 @@ Passionate DevOps Engineer focused on building scalable, automated infrastructur
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
-- **AWS** - EC2, ECS, Lambda, S3, RDS, CloudFormation, IAM
+- **AWS** - EC2, ECS, Lambda, S3, RDS, CloudFormation, IAM, etc.
 - **Terraform** - Infrastructure as Code
 - **Ansible**   - Configuration Management
 - **Kubernetes** - Container orchestration and management
