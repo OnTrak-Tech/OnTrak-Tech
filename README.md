@@ -11,7 +11,8 @@ Passionate DevOps Engineer focused on building scalable, automated infrastructur
 - **AWS** - EC2, ECS, Lambda, S3, RDS, CloudFormation, IAM, etc.
 - **Terraform** - Infrastructure as Code
 - **Ansible**   - Configuration Management
-- **Docker**    - Containerizing Software Applications 
+- **Docker**    - Containerizing Software Applications
+- **Kubernetes**  - Container orchestration and management 
 
 ### 💻 Programming Languages
 - **Bash Scripting** - Automation Scripts
@@ -40,7 +41,6 @@ Passionate DevOps Engineer focused on building scalable, automated infrastructur
 ## 🌱 Currently Learning
 - Advanced Kubernetes patterns and operators
 - GitOps with ArgoCD and Flux
-- Kubernetes Container orchestration and management
 - Advanced AWS services and certifications
 
 ## 📫 Let's Connect
