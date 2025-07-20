@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Gideon Adjei
 
+![DevOps Engineer](Devops1.jpeg)
+
 ## 🚀 About Me
 Passionate DevOps Engineer focused on building scalable, automated infrastructure and streamlining development workflows. Disciplined, fast learner, and hardworking individual with a strong commitment to professionalism, accuracy, and respectful communication. I love turning complex deployment challenges into simple, repeatable processes.
 
